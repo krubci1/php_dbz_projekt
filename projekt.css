@@ -1,0 +1,39 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: #f0833a;
+	background-size: cover;
+	}
+a {
+    color: #065a92;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+}
+.button {
+    display: inline-block;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px;
+    color: #fff;
+    background-color: #02243b;
+}
+
+.button:hover {
+    background-color: #1d6799;
+}
+.logo {
+	background-image: url('https://i.imgur.com/pZL9X5P.png');
+	background-size: cover;
+	width: 300px;
+	height: 300px;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 10px;
+}
